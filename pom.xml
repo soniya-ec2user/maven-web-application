@@ -100,7 +100,7 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>flipkart-release Repository</name>
+	      <name>flipkart-Release Repository</name>
 	      <url>http://3.111.55.235:8081/repository/flipkart-release/</url>
 	    </repository>
 	    
