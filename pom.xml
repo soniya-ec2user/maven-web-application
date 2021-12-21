@@ -100,13 +100,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>flipkart Releases Nexus Repository</name>
+	      <name>flipkart-release Repository</name>
 	      <url>http://13.126.241.154:8081/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>flipkart Snapshot Nexus Repository </name>
+	      <name>flipkart-Snapshot Repository</name>
 	      <url>http://13.126.241.154:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
